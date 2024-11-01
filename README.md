@@ -33,18 +33,21 @@ This project involves analyzing the Consumer Price Indices (CPI) data for Rural 
 **• CPI Trend Chart:** 
 
 [
- ![image](https://github.com/user-attachments/assets/28abc91c-c455-4830-8639-8338bbe057ab)
+ ![image](https://github.com/user-attachments/assets/f8508d11-9802-4f85-933e-0b16fa2e2c2d)
+
 ]
 
 **• Regional CPI Comparison:** 
-
 [
-![image](https://github.com/user-attachments/assets/c894189a-5b21-42eb-b720-fc2f28b11187)
+
+![image](https://github.com/user-attachments/assets/41d05400-1439-45da-958c-d4d32cbe303d)
+
 ]
 
 **• Inflation Rate Analysis:** 
 [
-![image](https://github.com/user-attachments/assets/da0a3568-30b6-4015-8f52-566e3f18ec12)
+
+![image](https://github.com/user-attachments/assets/2258c428-897a-4d3d-9e68-7276e7e3fbfc)
 
 ]
 
